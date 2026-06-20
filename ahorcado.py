@@ -1,10 +1,11 @@
+print("Bienvenidos al juego de Santy")
 import random
 
 PALABRAS = [
-    "python", "variable", "funcion", "bucle", "clase", "modulo",
-    "lista", "diccionario", "cadena", "entero", "ciclo", "programa",
-    "algoritmo", "compilador", "interprete", "parametro", "argumento",
-    "excepcion", "herencia", "polimorfismo", "recursion", "biblioteca"
+    "gato", "perro", "tigre", "dinosaurio", "serpiente", "cocodrilo",
+    "lista", "diccionario", "libro", "esfero", "regla", "programa",
+    "camion", "avion", "tren", "automovil", "barco",
+    "fresa", "aguacate", "guayaba", "naranja", "platano"
 ]
 
 HORCA = [
